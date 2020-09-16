@@ -1,4 +1,4 @@
-[Source](https://docs.google.com/document/d/1ajyJhXyt4q9ZsufXV1kZxDH_3Isg3MYAKsFqNytXrCw/)
+https://github.com/iamtodor/data-science-interview-questions-and-answers/blob/master/README.md
 
 - [1. Why do you use feature selection?](#1-why-do-you-use-feature-selection)
     - [Filter Methods](#filter-methods)
